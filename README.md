@@ -24,9 +24,13 @@ Layer-wise Relevance Propagation (LRP): Provided insights into the impact of ind
 # **Workflow**
 
 Selection of Dataset
+
 Data Processing
+
 Algorithm Selection
+
 Implementation of Algorithm
+
 Decision Making
 
 # **Implementation**
