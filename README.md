@@ -26,15 +26,15 @@ Framingham Dataset: Contains only numerical data with 4240 records.
 
 # **Workflow**
 
-Selection of Dataset
+1) Selection of Dataset
 
-Data Pre-processing
+2) Data Pre-processing
 
-Algorithm Selection
+3) Algorithm Selection
 
-Implementation of Algorithm
+4) Implementation of Algorithm
 
-Decision Making
+5) Decision Making
 
 # **Implementation**
 
