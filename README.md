@@ -16,11 +16,11 @@ Cleveland Dataset: Contains both categorical and numerical data with 5110 record
 
 Framingham Dataset: Contains only numerical data with 4240 records.
 
-# **Techniques Employed**
+# **New Techniques Employed**
 
-Transfer Learning: Utilized ResNet18, transforming numerical data into a heatmap representation for processing.
-Model-Agnostic Meta-Learning (MAML): Focused on acquiring model parameters that can be fine-tuned for new tasks.
-Layer-wise Relevance Propagation (LRP): Provided insights into the impact of individual features on the model’s output.
+**1) Transfer Learning:** Utilized ResNet18, transforming numerical data into a heatmap representation for processing.
+**2) Model-Agnostic Meta-Learning (MAML):** Focused on acquiring model parameters that can be fine-tuned for new tasks.
+**3) Layer-wise Relevance Propagation (LRP):** Provided insights into the impact of individual features on the model’s output.
 
 # **Workflow**
 
