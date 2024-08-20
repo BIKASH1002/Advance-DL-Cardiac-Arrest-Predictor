@@ -19,7 +19,9 @@ Framingham Dataset: Contains only numerical data with 4240 records.
 # **New Techniques Employed**
 
 **1) Transfer Learning:** Utilized ResNet18, transforming numerical data into a heatmap representation for processing.
+
 **2) Model-Agnostic Meta-Learning (MAML):** Focused on acquiring model parameters that can be fine-tuned for new tasks.
+
 **3) Layer-wise Relevance Propagation (LRP):** Provided insights into the impact of individual features on the model’s output.
 
 # **Workflow**
