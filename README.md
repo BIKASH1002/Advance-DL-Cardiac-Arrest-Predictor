@@ -13,6 +13,7 @@ The project implements multiple deep learning algorithms across two datasets: Cl
 # **Datasets Used**
 
 Cleveland Dataset: Contains both categorical and numerical data with 5110 records.
+
 Framingham Dataset: Contains only numerical data with 4240 records.
 
 # **Techniques Employed**
