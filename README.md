@@ -26,7 +26,7 @@ The project implements multiple deep learning algorithms across two datasets: Cl
 
 Jupyter Notebook (for interactive development)
 
-**Libraries:** TensorFlow, Keras, NumPy, pandas, scikit-learn, matplotlib
+**Libraries:** numPy, pandas, matplotlib, scikit-learn, keras, tensorFlow
 
 # **Advance Techniques Employed**
 
