@@ -52,6 +52,8 @@ Jupyter Notebook (for interactive development)
 
 # **Results**
 
+<div align = "center">
+    
 | Algorithm                              | Dataset Accuracy (in %) |            |
 |----------------------------------------|--------------------------|------------|
 |                                        | Cleveland                | Framingham |
@@ -61,6 +63,8 @@ Jupyter Notebook (for interactive development)
 | Transfer Learning                      | 93.9                     | 85.4       |
 | Model Agnostic Meta Learning (MAML)    | 92.6                     | 85.1       |
 | Layer wise Relevance Propagation (LRP) | 92.6                     | 85.5       |
+
+</div>
 
 **GRAPHICAL ANALYSIS**
 
@@ -88,5 +92,5 @@ ANN outperformed other algorithms, achieving a maximum accuracy of 94% on the Cl
 
 b) https://biolincc.nhlbi.nih.gov/studies/framcohort/
  
-**2) Contributing Member:**
+**2) Guide:**
 Dr. Sandeep Kumar Satapathy, Professor, Vellore Institute of Technology, Chennai
