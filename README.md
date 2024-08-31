@@ -1,5 +1,7 @@
 # **A Deep Learnining Framework for Prediction of Cardiopulmonary Arrest**
 
+<div align = "justify">
+    
 # **Overview**
 
 This project presents a comparative analysis of various predictive models for forecasting cardiopulmonary arrest (heart stroke) using machine learning and deep learning algorithms. The study specifically focuses on enhancing prediction accuracy by leveraging advanced neural network techniques, including Artificial Neural Networks (ANN), Transfer Learning, Model-Agnostic Meta-Learning (MAML) and Layer-wise Relevance Propagation (LRP). Among the algorithms tested, ANN demonstrated the highest accuracy of 94% using the Cleveland dataset.
@@ -36,6 +38,8 @@ Jupyter Notebook (for interactive development)
 
 **3) Layer-wise Relevance Propagation (LRP):** Provided insights into the impact of individual features on the model’s output.
 
+</div>
+
 # **Workflow**
 
 <p align="center">
@@ -68,6 +72,7 @@ Jupyter Notebook (for interactive development)
 
 **GRAPHICAL ANALYSIS**
 
+<div align = "center">
 <table>
     <tr>
         <td>
@@ -80,7 +85,7 @@ Jupyter Notebook (for interactive development)
         </td>
     </tr>
 </table>
-
+</div>
 
 # **Conclusion**
 
